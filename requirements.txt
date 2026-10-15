@@ -1,0 +1,5 @@
+pip install pocketsphinx
+pip install webbrowser
+pip install speechrecognition pyaudio
+pip install pyttsx3
+pip install setuptools

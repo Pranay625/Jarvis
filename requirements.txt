@@ -1,5 +1,7 @@
-pip install pocketsphinx
-pip install webbrowser
-pip install speechrecognition pyaudio
-pip install pyttsx3
-pip install setuptools
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+pywin32>=306
+pyttsx3>=2.90
+requests>=2.31.0
+python-dotenv>=1.0.0
+pytest>=7.4.0
